@@ -16,23 +16,6 @@
   </a>
 
 ---
-
-## Öne Çıkan Projeler
-### ☕ Coffee Recipe App (Kotlin)
-Espresso bazlı sıcak/soğuk tarifleri, püf noktaları ve sade bir kullanıcı deneyimiyle sunan mobil uygulama.  
-**Teknolojiler:** Kotlin • Android  
-🔗 Repo: https://github.com/hayattiraz/coffee-recipe-app
-
-### 🌿 Bitki Yaprağı Farklılık Analizi (Görüntü İşleme)
-Jupyter Notebook ortamında bitki yaprağı görüntülerinde farklılık/hasar analizleri ve görselleştirme odaklı çalışma.  
-**Teknolojiler:** Python • NumPy • Pandas • Matplotlib  
-🔗 Repo: https://github.com/hayattiraz/2212503017-hayat-tiraz-goruntu-isleme-projesi
-
-### ♻️ EcoDost (TÜBİTAK 2209-A)
-Geri dönüşüm davranışını artırmayı hedefleyen, teşvik/puan mantığıyla kurgulanan oyunlaştırılmış mobil uygulama fikri ve geliştirme süreci.  
-
-
----
 ## 💻 Teknik Yetenekler
 
 ### 📱 Mobil
@@ -59,6 +42,24 @@ Geri dönüşüm davranışını artırmayı hedefleyen, teşvik/puan mantığı
 
 ### ⚙️ Genel
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+## Öne Çıkan Projeler
+### ☕ Coffee Recipe App (Kotlin)
+Espresso bazlı sıcak/soğuk tarifleri, püf noktaları ve sade bir kullanıcı deneyimiyle sunan mobil uygulama.  
+**Teknolojiler:** Kotlin • Android  
+🔗 Repo: https://github.com/hayattiraz/coffee-recipe-app
+
+### 🌿 Bitki Yaprağı Farklılık Analizi (Görüntü İşleme)
+Jupyter Notebook ortamında bitki yaprağı görüntülerinde farklılık/hasar analizleri ve görselleştirme odaklı çalışma.  
+**Teknolojiler:** Python • NumPy • Pandas • Matplotlib  
+🔗 Repo: https://github.com/hayattiraz/2212503017-hayat-tiraz-goruntu-isleme-projesi
+
+### ♻️ EcoDost (TÜBİTAK 2209-A)
+Geri dönüşüm davranışını artırmayı hedefleyen, teşvik/puan mantığıyla kurgulanan oyunlaştırılmış mobil uygulama fikri ve geliştirme süreci.  
+
+
+
 
  
 ---
