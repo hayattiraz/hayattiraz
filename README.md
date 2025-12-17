@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben **Hayat Tıraz**
+# 👋 Merhaba, Ben **Hayat TIRAZ**
 🎓 Mehmet Akif Ersoy Üniversitesi | **Yönetim Bilişim Sistemleri (4. Sınıf)**  
 📍 Türkiye • 💡 Mobil Uygulama • Veri Analizi • Görüntü İşleme • Sürdürülebilirlik
 
