@@ -16,7 +16,6 @@
   </a>
 </div>
 
-**📩 Mail:** tihayat135@gmail.com
 
 ---
 
