@@ -1,5 +1,11 @@
 # Merhaba, Ben Hayat! 
 
+## ✨ Hakkımda
+YBS 4. sınıf öğrencisiyim. Mobil uygulama geliştirirken sadece kodu değil, kullanıcı deneyimini de önemsiyorum.  
+Kotlin (Android) ve Python (veri analizi/görüntü işleme) alanlarında projeler geliştiriyorum.  
+EcoDost (TÜBİTAK 2209-A) ile teknoloji, tasarım ve sürdürülebilirliği tek bir mobil deneyimde birleştirmeyi hedefliyorum.
+
+
 ## 🌐 İletişim
 
 <div align="left">
