@@ -12,11 +12,11 @@ EcoDost (TÜBİTAK 2209-A) ile teknoloji, tasarım ve sürdürülebilirliği tek
   <a href="https://www.linkedin.com/in/hayattiraz/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=3" />
   </a>
-  <br><br>
+  <br>
   <a href="mailto:tihayat135@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=3" />
   </a>
-  <br><br>
+  <br>
   <a href="https://github.com/hayattiraz">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&v=3" />
   </a>
