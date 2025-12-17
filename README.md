@@ -1,11 +1,22 @@
 # Merhaba! Ben, Hayat Tıraz
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hayattiraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/hayattiraz/)
-<br>
-[![Gmail](https://img.shields.io/badge/Gmail-tihayat135%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:tihayat135@gmail.com)
-<br>
-[![GitHub](https://img.shields.io/badge/GitHub-hayattiraz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/hayattiraz)
-<br>
+## 🌐 İletişim
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/hayattiraz/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=3" />
+  </a>
+  <br><br>
+  <a href="mailto:tihayat135@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=3" />
+  </a>
+  <br><br>
+  <a href="https://github.com/hayattiraz">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&v=3" />
+  </a>
+</div>
+
+**📩 Mail:** tihayat135@gmail.com
 
 ---
 
