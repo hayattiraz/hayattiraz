@@ -23,10 +23,10 @@
 
 ## 📌 Öne Çıkan Projeler
 - ♻️ **EcoDost (TÜBİTAK 2209-A)** – Geri dönüşüm ve sürdürülebilirlik odaklı, oyunlaştırılmış mobil uygulama  
-  🔗 Repo: (link eklenecek)
+
 
 - ☕ **Kahve Rehberi (Kotlin App)** – Espresso bazlı sıcak/soğuk kahve tarifleri, püf noktaları ve kullanıcı dostu arayüz  
-  🔗 Repo: (link eklenecek)
+
 
 - 🌿 **Bitki Yaprağı Farklılık Analizi (Görüntü İşleme)** – Jupyter Notebook ile bitki yaprağı farklılık analizi ve görselleştirme  
   🔧 Teknolojiler: Python • NumPy • Pandas • Matplotlib  
