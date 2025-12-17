@@ -1,10 +1,10 @@
 # Merhaba! Ben, Hayat Tıraz
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hayattiraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayattiraz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hayattiraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/hayattiraz/)
 <br>
-[![Gmail](https://img.shields.io/badge/Gmail-tihayat135%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tihayat135@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-tihayat135%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:tihayat135@gmail.com)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-hayattiraz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hayattiraz)
+[![GitHub](https://img.shields.io/badge/GitHub-hayattiraz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/hayattiraz)
 <br>
 
 ---
