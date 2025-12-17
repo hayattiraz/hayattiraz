@@ -14,13 +14,6 @@
   <a href="https://github.com/hayattiraz">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&v=3" />
   </a>
-</div>
-
-
----
-
-
-**İngilizce:** A2
 
 ---
 
