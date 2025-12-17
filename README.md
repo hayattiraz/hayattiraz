@@ -1,4 +1,4 @@
-# Merhaba! Ben, Hayat Tıraz
+# Merhaba, Ben Hayat! 
 
 ## 🌐 İletişim
 
