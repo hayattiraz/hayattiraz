@@ -1,6 +1,4 @@
-# Hayat Tıraz
-🎓 Mehmet Akif Ersoy Üniversitesi • Yönetim Bilişim Sistemleri (4. Sınıf)  
-📍 Türkiye • Mobil Uygulama Geliştirme • Veri Analizi • Görüntü İşleme • Sürdürülebilirlik
+# Merhaba! Ben, Hayat Tıraz
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hayattiraz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayattiraz/)
 [![Gmail](https://img.shields.io/badge/Gmail-tihayat135%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tihayat135@gmail.com)
@@ -8,10 +6,6 @@
 
 ---
 
-## Hakkımda
-Yönetim Bilişim Sistemleri öğrencisiyim ve yazılım geliştirme sürecinde **kullanıcı odaklı ürün tasarımı**, **veriyle karar verme** ve **analitik düşünme** ekseninde ilerliyorum.  
-Özellikle **Android (Kotlin)**, **Python ile veri analizi/görüntü işleme** ve **C#** ile uygulama geliştirme alanlarında projeler üretiyorum.  
-TÜBİTAK 2209-A kapsamında, **geri dönüşüm ve çevresel sürdürülebilirlik** odaklı **oyunlaştırılmış** bir mobil uygulama proje tasarımı oluşturduk. Sonuç aşamassındayız.
 
 **İngilizce:** A2
 
